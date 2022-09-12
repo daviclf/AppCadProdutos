@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cadastro de Produtos</string>
+    <string name="inserir_o_nome_do_produto">Inserir o nome do Produto</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="nome">Nome</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="descricao">Descrição</string>
+    <string name="modificar">Modificar</string>
+    <string name="btnCadastrar">Cadastrar</string>
+</resources>
